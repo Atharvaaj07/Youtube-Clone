@@ -23,20 +23,15 @@ This project is a YouTube clone built using React and Redux. The application mim
 
 ## Installation
 To run this project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/mukulaggy/youtubeClone.git
-    ```
-2. Navigate to the project directory:
+1. Navigate to the project directory:
     ```bash
     cd youtubeClone
     ```
-3. Install the dependencies:
+2. Install the dependencies:
     ```bash
     npm install
     ```
-4. Start the development server:
+3. Start the development server:
     ```bash
     npm start
     ```
